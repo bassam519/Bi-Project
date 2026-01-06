@@ -1,6 +1,6 @@
 # Business Intelligence Project
 
-## Faculty of Computers and Artificial Intelligence – Helwan University
+## Faculty of Computer Science and Artificial Intelligence – Helwan University
 
 **Subject:** Business Intelligence
 **Student:** Bassam
